@@ -5,9 +5,9 @@
 	(uuid "ac264c30-3e9a-4be2-b97a-9949b68bd497")
 	(paper "A3" portrait)
 	(title_block
-		(title "UAEFI")
-		(date "2024-03-27")
-		(rev "C")
+		(title "UAEFI2")
+		(date "2024-09-10")
+		(rev "A0")
 		(company "rusEFI.com")
 		(comment 1 "https://rusefi.com/s/uaefi")
 	)
